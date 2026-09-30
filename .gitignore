@@ -1,0 +1,10 @@
+﻿checkpoint/**/checkpoint-*/
+checkpoint/**/optimizer.pt
+checkpoint/**/scheduler.pt
+artifacts/raw_500k.txt
+artifacts/train.jsonl
+artifacts/val.jsonl
+generate/
+.venv/
+__pycache__/
+*.pyc
